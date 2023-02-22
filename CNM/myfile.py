@@ -1,7 +1,9 @@
+import config
 def Dict(thisdict):
     thisdict = {
   "brand": "Ford",
   "model": "Mustang",
   "year": 1964
 }
-print()
+read_file.thisdict()
+config.thisdict()
